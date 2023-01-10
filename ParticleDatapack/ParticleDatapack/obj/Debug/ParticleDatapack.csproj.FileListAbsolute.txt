@@ -1,0 +1,11 @@
+C:\Users\tomra\source\repos\ParticleDatapack\ParticleDatapack\bin\Debug\ParticleDatapack.exe.config
+C:\Users\tomra\source\repos\ParticleDatapack\ParticleDatapack\bin\Debug\ParticleDatapack.exe
+C:\Users\tomra\source\repos\ParticleDatapack\ParticleDatapack\bin\Debug\ParticleDatapack.pdb
+C:\Users\tomra\source\repos\ParticleDatapack\ParticleDatapack\obj\Debug\ParticleDatapack.csproj.AssemblyReference.cache
+C:\Users\tomra\source\repos\ParticleDatapack\ParticleDatapack\obj\Debug\ParticleDatapack.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomra\source\repos\ParticleDatapack\ParticleDatapack\obj\Debug\ParticleDatapack.Form1.resources
+C:\Users\tomra\source\repos\ParticleDatapack\ParticleDatapack\obj\Debug\ParticleDatapack.Properties.Resources.resources
+C:\Users\tomra\source\repos\ParticleDatapack\ParticleDatapack\obj\Debug\ParticleDatapack.csproj.GenerateResource.cache
+C:\Users\tomra\source\repos\ParticleDatapack\ParticleDatapack\obj\Debug\ParticleDatapack.csproj.CoreCompileInputs.cache
+C:\Users\tomra\source\repos\ParticleDatapack\ParticleDatapack\obj\Debug\ParticleDatapack.exe
+C:\Users\tomra\source\repos\ParticleDatapack\ParticleDatapack\obj\Debug\ParticleDatapack.pdb
